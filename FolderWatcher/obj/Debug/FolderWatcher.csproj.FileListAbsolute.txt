@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2017\Projects\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.Cache
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\System.Management.Automation.dll
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csprojResolveAssemblyReference.cache
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.ProjectInstaller.resources
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.Cache
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.CoreCompileInputs.cache
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb

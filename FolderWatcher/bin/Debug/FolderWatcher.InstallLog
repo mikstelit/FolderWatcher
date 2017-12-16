@@ -1,0 +1,162 @@
+﻿Installing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Attempt to stop service TestFolderWatcher.
+Installing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\administrator\Documents\Visual Studio 2017\Projects\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
+Installing assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Installing service TestFolderWatcher...
+Service TestFolderWatcher has been successfully installed.
+Creating EventLog source TestFolderWatcher in log Application...
+Committing assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.InstallLog
+   assemblypath = C:\Users\mike.littlefield\source\repos\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+Removing EventLog source TestFolderWatcher.
+Service TestFolderWatcher is being removed from the system...
+Service TestFolderWatcher was successfully removed from the system.
